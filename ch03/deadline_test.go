@@ -1,4 +1,4 @@
-package ch03
+package main
 
 import (
 	"io"
